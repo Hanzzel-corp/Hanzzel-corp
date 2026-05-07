@@ -116,7 +116,6 @@ Focus:
 ---
 
 ## Ecosystem map
-## Ecosystem map
 
 ```txt
 Hanzzel Corp
@@ -148,7 +147,9 @@ Hanzzel Corp
     ├── releases
     ├── research reports
     └── future DOI-linked archives
-Development principles
+
+
+#Development principles
 Human first
 
 The system assists the human.
