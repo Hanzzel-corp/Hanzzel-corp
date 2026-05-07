@@ -116,7 +116,9 @@ Focus:
 ---
 
 ## Ecosystem map
+## Ecosystem map
 
+```txt
 Hanzzel Corp
 │
 ├── Products
