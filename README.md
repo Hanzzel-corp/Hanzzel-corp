@@ -117,6 +117,8 @@ Focus:
 
 ## Ecosystem map
 
+## Ecosystem map
+
 ```txt
 Hanzzel Corp
 │
@@ -147,11 +149,35 @@ Hanzzel Corp
     ├── releases
     ├── research reports
     └── future DOI-linked archives
-
-```md
 ```
-Development principles
-Human first
+
+---
+
+## Development principles
+
+### Human first
+
+The system assists the human.  
+The human decides.
+
+### Local by default
+
+Local execution, local models, local evidence, and user-controlled workflows are preferred whenever possible.
+
+### Evidence over claims
+
+Every experiment should aim to produce inspectable outputs: logs, metrics, screenshots, reports, datasets, or reproducible scripts.
+
+### Modular by design
+
+Each module should have a clear purpose, clear inputs, clear outputs, and a verifiable role in the system.
+
+### Research connected to software
+
+Research should not stay abstract.  
+Whenever possible, it should become code, tests, reports, demos, or tools.
+
+---
 
 The system assists the human.
 The human decides.
