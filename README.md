@@ -149,7 +149,6 @@ Hanzzel Corp
     └── future DOI-linked archives
 
 ```md
-## Current focus
 ```
 Development principles
 Human first
