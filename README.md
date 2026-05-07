@@ -1,5 +1,9 @@
 # Hanzzel Corp
 
+<p align="center">
+  <img src="./assets/nct-cat-repair.gif" alt="Hanzzel Corp - NCT repairing the fracture" width="950">
+</p>
+
 **Local-first AI orchestration, human-approved automation, and experimental NCT research.**
 
 Hanzzel Corp is an independent technical lab focused on building practical AI systems, local automation tools, reproducible experiments, and research-driven software around a core idea:
