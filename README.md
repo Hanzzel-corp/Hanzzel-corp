@@ -136,39 +136,15 @@ The portfolio connects selected software projects, research, technical direction
 
 ## Ecosystem map
 
-```text
-Hanzzel Corp
-│
-├── Products and tools
-│   ├── Blue Arrow
-│   ├── Telegram AI Video Bot
-│   └── Practical local utilities
-│
-├── AI and intelligence
-│   ├── Local AI orchestration
-│   ├── Observatorio Vivo
-│   ├── Signal and trend analysis
-│   └── Human-approved automation
-│
-├── Research and computation
-│   ├── NCT experimental framework
-│   ├── NCT Depth Motif
-│   └── SAT Engine
-│
-├── Infrastructure
-│   ├── Local model bridges
-│   ├── Memory components
-│   ├── Documentation generators
-│   └── Dashboards and utilities
-│
-└── Public evidence
-    ├── Source code and tests
-    ├── Technical documentation
-    ├── Demonstrations and workflows
-    └── Releases and research archives
-```
+The ecosystem is organized into five connected areas:
 
-The map describes the ecosystem's areas of work; it does not imply that every component is already integrated into one deployed system.
+- **Products and tools:** Blue Arrow, Telegram AI Video Bot, and practical local utilities.
+- **AI and intelligence:** local AI orchestration, Observatorio Vivo, signal analysis, and human-approved automation.
+- **Research and computation:** the NCT experimental framework, NCT Depth Motif, and SAT Engine.
+- **Infrastructure:** local model bridges, memory components, documentation generators, dashboards, and utilities.
+- **Public evidence:** source code, tests, technical documentation, demonstrations, releases, and research records.
+
+These areas describe the organization's work; they do not imply that every component is already integrated into one deployed system.
 
 ## Research and evidence
 
