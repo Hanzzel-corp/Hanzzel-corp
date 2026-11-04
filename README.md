@@ -182,9 +182,6 @@ This directory broadens the view beyond the featured projects. It indexes the or
 ### Core systems and applications
 
 - [Blue Arrow](https://github.com/Hanzzel-corp/blue-arrow) — human-approved local PC orchestration.
-- [Ciel Core](https://github.com/Hanzzel-corp/ciel-core) — local AI system core.
-- [Ciel Bridge](https://github.com/Hanzzel-corp/ciel-bridge) — integration bridge for Ciel.
-- [Hanzzel Social Bridge](https://github.com/Hanzzel-corp/hanzzel-social-bridge) — social-platform integration project.
 - [Observatorio Vivo](https://github.com/Hanzzel-corp/Observatorio.-Vivo) — local signal and trend intelligence.
 - [Alerta Temprana](https://github.com/Hanzzel-corp/AlertaTemprana) — early-warning project.
 - [Hanzzel Store](https://github.com/Hanzzel-corp/hanzzel-store) — store and commerce project.
@@ -208,7 +205,6 @@ This directory broadens the view beyond the featured projects. It indexes the or
 - [Elliptic Curve BSD Engine](https://github.com/Hanzzel-corp/EllipticCurve-BSD-Engine) — elliptic-curve and BSD-related computation.
 - [Riemann Zeta Computational Engine](https://github.com/Hanzzel-corp/Riemann-Zeta-Computational-Engine) — computational exploration of the zeta function.
 - [SAT Engine v7](https://github.com/Hanzzel-corp/SAT-Engine-v7) — SAT-solving experiments.
-- [H2O Chemistry VQE](https://github.com/Hanzzel-corp/H2O-quimicaVQE) — quantum-chemistry / VQE experiment.
 
 ### Public presence
 
