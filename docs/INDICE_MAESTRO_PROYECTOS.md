@@ -13,8 +13,8 @@ Este índice es un mapa de navegación, no una declaración de que todos los pro
 | Blue Arrow | [blue-arrow](https://github.com/Hanzzel-corp/blue-arrow) | Orquestación local de PC con aprobación humana. |
 | Observatorio Vivo | [Observatorio.-Vivo](https://github.com/Hanzzel-corp/Observatorio.-Vivo) | Inteligencia local de señales y tendencias. |
 | Alerta Temprana | [AlertaTemprana](https://github.com/Hanzzel-corp/AlertaTemprana) | Proyecto de alertas tempranas. |
-| Hanzzel Store | [hanzzel-store](https://github.com/Hanzzel-corp/hanzzel-store) | Proyecto de tienda y comercio. |
-| Nubea | [nubea](https://github.com/Hanzzel-corp/nubea) | Proyecto de software. |
+| Hanzzel Store | [hanzzel-store](https://github.com/Hanzzel-corp/hanzzel-store) | Catálogo público de productos digitales y consultoría. |
+| Nubea | [nubea](https://github.com/Hanzzel-corp/nubea) | Prototipo de navegador de escritorio con inspección de actividad web en tiempo real y diseño sin historial local. |
 | Hanzzel Bot Builder | [hanzzel-bot-builder](https://github.com/Hanzzel-corp/hanzzel-bot-builder) | Herramienta de creación de bots; alcance funcional pendiente de ficha detallada. |
 | Telegram AI Video Bot | [telegram-ai-video-bot](https://github.com/Hanzzel-corp/telegram-ai-video-bot) | Flujo de generación de video asistido por IA desde Telegram. |
 | IA-video / SVD-TelegramBot | [IA-video](https://github.com/Hanzzel-corp/IA-video) | Experimentos de generación local de video con IA. |
@@ -27,7 +27,7 @@ Este índice es un mapa de navegación, no una declaración de que todos los pro
 | NCT Dossiers | [nct-dossiers](https://github.com/Hanzzel-corp/nct-dossiers) | Documentación de investigación NCT. |
 | NCT Depth Motif | [nct-depth-motif](https://github.com/Hanzzel-corp/nct-depth-motif) | Experimentos de motivos sobre mapas de profundidad. |
 | NCT Milenio Solver / NCT Visual Engine | [NCT_MILENIO_SOLVER](https://github.com/Hanzzel-corp/NCT_MILENIO_SOLVER) | Motor de visualización NCT; el nombre del repositorio y el del motor quedan distinguidos en su README. |
-| Camino Cuaternario | [camino-cuaternario](https://github.com/Hanzzel-corp/camino-cuaternario) | Investigación y exploración computacional. |
+| Camino Cuaternario | [camino-cuaternario](https://github.com/Hanzzel-corp/camino-cuaternario) | Iniciativa independiente de recaudación de fondos; meta publicada de 500.000 USD. |
 | Cero Absoluto Simulation | [Cero-Absoluto-Simulation](https://github.com/Hanzzel-corp/Cero-Absoluto-Simulation) | Simulaciones computacionales sobre el cero absoluto. |
 | Experimento 9 — Horizonte Perceptivo | [Experimento-9-Horizonte-Perceptivo](https://github.com/Hanzzel-corp/Experimento-9-Horizonte-Perceptivo) | Proyecto experimental. |
 | Experimento 10 — Resonancia PhiSync | [Experimento10_ResonanciaPhiSync](https://github.com/Hanzzel-corp/Experimento10_ResonanciaPhiSync) | Proyecto experimental de resonancia. |
