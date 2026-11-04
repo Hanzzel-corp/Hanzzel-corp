@@ -39,14 +39,14 @@ Our work connects engineering with investigation: prototypes become documented s
 
 ## What we build
 
-Hanzzel Corp works across four connected areas:
+Hanzzel Corp develops practical software, AI systems, and computational research. Within this work, **NCT is the mathematical foundation for a family of derived constructions and methods**; those constructions may then inform applications and tools. The organization also develops projects with independent technical foundations.
 
 | Area | What it means |
 |---|---|
-| **Products and tools** | Software and utilities designed to support concrete workflows. |
-| **AI and automation** | Local-first systems, modular orchestration, signal analysis, and human-approved execution. |
-| **Research and experiments** | NCT-based investigations and computational experiments with explicit methods and limitations. |
-| **Infrastructure** | Bridges, memory components, dashboards, generators, and supporting development tools. |
+| **Mathematical foundation** | NCT and the definitions, models, and hypotheses developed within that framework. |
+| **Derived constructions** | CQ, algorithmic approaches, Archimedean spheres, and other computational or geometric constructions. |
+| **Products and applications** | Software and utilities designed to address concrete workflows and problems. |
+| **AI, automation, and infrastructure** | Local-first systems, orchestration, signal analysis, memory components, bridges, dashboards, and supporting tools. |
 
 Not every repository is a finished product. Some are usable systems, some are under active development, and others are experimental research. Their maturity is identified separately wherever the available project documentation supports it.
 
@@ -134,17 +134,43 @@ The portfolio connects selected software projects, research, technical direction
 
 ---
 
-## Ecosystem map
+## Ecosystem architecture
 
-The ecosystem is organized into five connected areas:
+Hanzzel Corp's work is organized around a distinction between a mathematical foundation, the constructions developed from it, and the practical systems that apply ideas to concrete problems.
 
-- **Products and tools:** Blue Arrow, Telegram AI Video Bot, and practical local utilities.
-- **AI and intelligence:** local AI orchestration, Observatorio Vivo, signal analysis, and human-approved automation.
-- **Research and computation:** the NCT experimental framework, NCT Depth Motif, and SAT Engine.
-- **Infrastructure:** local model bridges, memory components, documentation generators, dashboards, and utilities.
-- **Public evidence:** source code, tests, technical documentation, demonstrations, releases, and research records.
+### 1. Mathematical foundation: NCT
 
-These areas describe the organization's work; they do not imply that every component is already integrated into one deployed system.
+**NCT (Números Cuánticos Tridimensionales)** is the mathematical foundation of this line of development. It provides the framework from which we investigate and construct models, structures, algorithms, and computational approaches.
+
+NCT is not presented here as a finished universal theory or as proof of physical quantum behavior. Its definitions, implementations, hypotheses, experimental results, and open questions must be evaluated through their respective technical documentation.
+
+### 2. Derived constructions and methods
+
+On that foundation, the work explores and develops further constructions, including:
+
+- **CQ:** structures and computational constructions developed within the NCT framework.
+- **Quantum algorithms:** algorithmic approaches investigated through these mathematical constructions.
+- **Archimedean spheres:** geometric constructions and experiments.
+- **Problem-solving methods:** computational approaches intended to address specific mathematical, logical, and practical problems.
+
+These are development and research directions. Their implementation status and degree of validation depend on each individual project.
+
+### 3. Applications and systems
+
+The constructions and methods can then inform practical software and systems, alongside projects that have their own independent architectures and purposes. Examples include:
+
+- **AI and orchestration:** Blue Arrow and local AI workflows.
+- **Signal intelligence:** Observatorio Vivo.
+- **Developer and computational tools:** SAT Engine, Telegram AI Video Bot, and supporting infrastructure.
+- **Applied solutions:** utilities and software aimed at concrete workflows and business problems.
+
+Not every application currently uses NCT, and not every NCT-derived construction is integrated into a deployed product. The relationship is architectural and developmental, not a claim of universal integration.
+
+### 4. Evidence and public documentation
+
+The work is made inspectable through source code, tests, reproducible experiments, technical reports, demonstrations, releases, and research records. Each project should state what is implemented, what has been measured, what remains hypothetical, and what still needs validation.
+
+This structure describes how the work is conceived and developed: **mathematical foundation → derived constructions and methods → applications and problem-solving systems**, with evidence and documentation supporting each stage.
 
 ## Research and evidence
 
