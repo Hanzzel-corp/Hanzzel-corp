@@ -9,6 +9,8 @@
 
 <h1 align="center">Hanzzel Corp</h1>
 
+<p align="center"><strong>Investigador principal independiente / Independent Principal Investigator: José Zamora</strong></p>
+
 <p align="center">
   <strong>Local-first AI · Human-approved automation · Computational research · Practical software</strong>
 </p>
