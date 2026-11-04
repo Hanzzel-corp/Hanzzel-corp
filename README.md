@@ -17,6 +17,7 @@
   <a href="https://github.com/Hanzzel-corp"><img src="https://img.shields.io/badge/GitHub-Hanzzel--corp-181717?logo=github" alt="Hanzzel Corp on GitHub"></a>
   <a href="https://hanzzel-corp.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2" alt="Portfolio"></a>
   <a href="https://orcid.org/0009-0005-3584-1779"><img src="https://img.shields.io/badge/ORCID-Researcher-A6CE39?logo=orcid&logoColor=white" alt="ORCID"></a>
+  <a href="https://doi.org/10.5281/zenodo.20045645"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.20045645.svg" alt="NCT Depth Motif — Zenodo DOI"></a>
 </p>
 
 Hanzzel Corp is an independent technical lab developing mathematical and computational research, practical software, local AI systems, and human-directed automation.
