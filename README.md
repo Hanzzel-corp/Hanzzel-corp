@@ -1,68 +1,54 @@
-
+<!-- Keep this animated header: it is part of Hanzzel Corp's visual identity. -->
 <p align="center">
-  <img src="./assets/nct-cat-repair.gif" alt="Hanzzel Corp - NCT repairing the fracture" width="950">
+  <img src="./assets/nct-cat-repair.gif" alt="Hanzzel Corp — NCT repairing the fracture" width="950">
 </p>
 
 <p align="center">
   <strong>NCT as a repair field for fractured systems: detecting, interpreting, and rebuilding through human-directed intelligence.</strong>
 </p>
 
-# Hanzzel Corp
+<h1 align="center">Hanzzel Corp</h1>
 
-**Local-first AI orchestration, human-approved automation, experimental NCT research, and practical computational tools.**
+<p align="center">
+  <strong>Local-first AI · Human-approved automation · Computational research · Practical software</strong>
+</p>
 
-Hanzzel Corp is an independent technical lab focused on building practical AI systems, local automation tools, reproducible experiments, and research-driven software around a core idea:
+<p align="center">
+  <a href="https://github.com/Hanzzel-corp"><img src="https://img.shields.io/badge/GitHub-Hanzzel--corp-181717?logo=github" alt="Hanzzel Corp on GitHub"></a>
+  <a href="https://hanzzel-corp.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2" alt="Portfolio"></a>
+  <a href="https://orcid.org/0009-0005-3584-1779"><img src="https://img.shields.io/badge/ORCID-Researcher-A6CE39?logo=orcid&logoColor=white" alt="ORCID"></a>
+</p>
 
-> AI should assist, organize, verify and execute only under human direction.
+Hanzzel Corp is an independent technical lab building practical software, local AI systems, human-directed automation, and experimental computational research.
 
-The goal is not to replace human decision-making, but to build systems where the human remains the final authority while AI becomes a structured technical companion.
+Our work connects engineering with investigation: prototypes become documented systems, experiments produce inspectable evidence, and useful ideas are developed into tools where possible.
 
----
-
-## Who we are
-
-Hanzzel Corp was created as a public development space for experimental software, automation systems, local AI tooling, NCT-based research, and computational prototypes.
-
-The work combines:
-
-- local AI systems
-- human-in-the-loop automation
-- modular orchestration
-- reproducible experiments
-- technical documentation
-- trend-intelligence systems
-- phase-based interpretation
-- NCT experimental research
-- practical tools for real workflows
-
-This organization is built in public as an evolving ecosystem, not as a single isolated project.
+> **AI should assist, organize, verify, and execute under human direction. The human remains the final authority.**
 
 ---
 
-## Core axis
+## Navigate
 
-### 1. Local-first AI
+- [What we build](#what-we-build)
+- [Featured projects](#featured-projects)
+- [Ecosystem map](#ecosystem-map)
+- [Research and evidence](#research-and-evidence)
+- [Development principles](#development-principles)
+- [Current direction](#current-direction)
+- [Collaboration and links](#collaboration-and-links)
 
-We prioritize systems that can run locally, reduce dependency on external APIs, and keep control close to the user.
+## What we build
 
-### 2. Human-approved automation
+Hanzzel Corp works across four connected areas:
 
-Automation should be powerful, but controlled.  
-Every real-world action should be traceable, reviewable, and approved when needed.
+| Area | What it means |
+|---|---|
+| **Products and tools** | Software and utilities designed to support concrete workflows. |
+| **AI and automation** | Local-first systems, modular orchestration, signal analysis, and human-approved execution. |
+| **Research and experiments** | NCT-based investigations and computational experiments with explicit methods and limitations. |
+| **Infrastructure** | Bridges, memory components, dashboards, generators, and supporting development tools. |
 
-### 3. Modular orchestration
-
-Complex systems should be built as small, connected modules with clear responsibilities, observable behavior, and verifiable execution paths.
-
-### 4. NCT experimental research
-
-NCT is explored as a phase-based framework for interpretation, context selection, pattern analysis, symbolic repair, and experimental reasoning.
-
-### 5. Reproducible public work
-
-Each project should include code, documentation, evidence, examples, releases, and a clear explanation of what it proves.
-
----
+Not every repository is a finished product. Some are usable systems, some are under active development, and others are experimental research. Their maturity is identified separately wherever the available project documentation supports it.
 
 ## Featured projects
 
@@ -70,265 +56,187 @@ Each project should include code, documentation, evidence, examples, releases, a
 
 **Human-approved local PC orchestration from Telegram.**
 
-Blue Arrow is a modular event-driven orchestration system designed to control local desktop, browser, terminal, system and automation workflows through Telegram, while keeping the human in the approval loop.
-
-Repository:  
-https://github.com/Hanzzel-corp/blue-arrow
-
-Focus:
+A modular, event-driven system for coordinating desktop, browser, terminal, system, and document workflows. Its design keeps real-world actions behind safety checks and human approval.
 
 - Telegram-based local control
-- human approval before execution
-- desktop, browser, terminal and system workers
-- safety-oriented orchestration
-- observable event flow
-- local AI integration
-- verifiable execution results
+- Modular runtime, workers, and event flow
+- Approval and execution-verification mechanisms
+- Local AI integration
+- Documented transition from token-based toward state-driven orchestration
 
----
+**Documented status:** Architecture transition in progress; the project documentation distinguishes the current hybrid implementation from its state-driven target.
+
+[Repository](https://github.com/Hanzzel-corp/blue-arrow) · [CI workflow](https://github.com/Hanzzel-corp/blue-arrow/actions/workflows/ci.yml)
 
 ### NCT Depth Motif
 
 **Experimental NCT-based analysis over depth maps.**
 
-NCT Depth Motif is a reproducible experimental repository exploring motif detection, structural interpretation, RGB-D scene validation, grouped splits, and falsifiability-oriented testing over depth-map data.
+A reproducible investigation of discrete symbolic motifs derived from depth-map descriptors, evaluated using NYU Depth V2 data.
 
-Repository:  
-https://github.com/Hanzzel-corp/nct-depth-motif
+- Four-state symbolic representation
+- Local depth-map descriptors and motif analysis
+- Grouped train/test evaluation
+- Comparisons against randomized motif weights
+- Falsifiability-oriented experiments
 
-Focus:
+**Documented status:** Exploratory technical report; not peer-reviewed. The project README reports statistically significant effects of small magnitude and identifies comparison with classical detectors such as Canny, Sobel, and HED as outstanding work.
 
-- computer vision experiments
-- depth-map analysis
-- motif survival
-- grouped data splits
-- reproducible scripts
-- falsifiability-oriented testing
-- NCT-inspired interpretation
-
----
+[Repository](https://github.com/Hanzzel-corp/nct-depth-motif) · [Technical DOI](https://doi.org/10.5281/zenodo.20045645)
 
 ### Observatorio Vivo
 
 **Local trend-intelligence and signal-detection system.**
 
-Observatorio Vivo is a local intelligence system designed to capture public signals, detect emerging phenomena through multi-source acceleration, and generate confidence-based alerts.
+A local system for collecting public signals, identifying emerging phenomena, organizing observations, and generating confidence-based alerts.
 
-Repository:  
-https://github.com/Hanzzel-corp/Observatorio.-Vivo
+- Multi-source public-signal collection
+- Trend and emergence scoring
+- Local SQLite persistence
+- Watchlists, aliases, and observation workflows
+- Configurable alerts and exports
 
-Focus:
+**Documented version:** Public README identifies v0.3.0 and an internal engine version v6.1.2. Refer to the project documentation for the precise feature and deployment state.
 
-- public signal monitoring
-- emerging trend detection
-- multi-source acceleration
-- local intelligence workflow
-- confidence-based alerts
-- observation tray
-- phenomenon tracking
+[Repository](https://github.com/Hanzzel-corp/Observatorio.-Vivo)
 
----
+### SAT Engine
 
-### SAT Engine v7
+**Experimental SAT-solving and computational-analysis project.**
 
-**Experimental P vs NP computational engine.**
+A collection of solver implementations exploring algorithmic approaches to Boolean satisfiability, including Python/C++ integration and phase-transition analysis.
 
-SAT Engine v7 is an experimental computational system exploring hybrid solving structures, Python orchestration, C++ solver integration, and phase-transition analysis.
+- Backtracking and stochastic local-search approaches
+- GSAT and WalkSAT experiments
+- Python/C++ integration
+- Parallel execution experiments
+- Computational measurements around SAT phase transitions
 
-Repository:  
-https://github.com/Hanzzel-corp/SAT-Engine-v7
+**Documentation note:** The repository is named SAT Engine v7, while the README's version history currently describes implementations through v5. The version history and v7 scope should be reconciled before treating the repository title as a precise release statement.
 
-Focus:
-
-- SAT and P vs NP experimentation
-- hybrid Python/C++ computation
-- solver orchestration
-- phase-transition analysis
-- experimental computational models
-- reproducible tests
-
----
+[Repository](https://github.com/Hanzzel-corp/SAT-Engine-v7)
 
 ### Telegram AI Video Bot
 
-**Telegram bot for AI-assisted short video generation.**
+**Telegram-based AI-assisted short-video workflow.**
 
-Telegram AI Video Bot is a Telegram-based automation project for generating short videos from text descriptions using AI-assisted workflows.
+A project focused on generating short videos from text descriptions through an automated Telegram interface.
 
-Repository:  
-https://github.com/Hanzzel-corp/telegram-ai-video-bot
-
-Focus:
-
-- Telegram bot workflow
-- AI-assisted video generation
-- text-to-video pipeline
-- automation interface
-- practical creative tooling
-
----
+[Repository](https://github.com/Hanzzel-corp/telegram-ai-video-bot)
 
 ### Hanzzel Corp Portfolio
 
-**Public technical portfolio and project showcase.**
+**Public portfolio and professional project index.**
 
-This portfolio presents selected projects, technical direction, public work, research direction, and professional positioning from Hanzzel Corp.
+The portfolio connects selected software projects, research, technical direction, and professional identity.
 
-Website:  
-https://hanzzel-corp.github.io/
-
-Focus:
-
-- project showcase
-- professional profile
-- public presentation
-- technical positioning
-- research and software portfolio
+[Open portfolio](https://hanzzel-corp.github.io/)
 
 ---
 
 ## Ecosystem map
 
-```txt
+```text
 Hanzzel Corp
 │
-├── Products
+├── Products and tools
 │   ├── Blue Arrow
 │   ├── Telegram AI Video Bot
-│   ├── Local automation tools
-│   └── Future AI-assisted utilities
+│   └── Practical local utilities
 │
-├── Research
-│   ├── NCT Depth Motif
-│   ├── SAT Engine v7
-│   ├── NCT experimental models
-│   └── Phase-based interpretation
-│
-├── Intelligence systems
+├── AI and intelligence
+│   ├── Local AI orchestration
 │   ├── Observatorio Vivo
-│   ├── trend detection
-│   ├── public signal analysis
-│   └── confidence-based alerts
+│   ├── Signal and trend analysis
+│   └── Human-approved automation
+│
+├── Research and computation
+│   ├── NCT experimental framework
+│   ├── NCT Depth Motif
+│   └── SAT Engine
 │
 ├── Infrastructure
-│   ├── Local LLM bridges
-│   ├── Memory systems
+│   ├── Local model bridges
+│   ├── Memory components
 │   ├── Documentation generators
-│   └── Dashboard generators
+│   └── Dashboards and utilities
 │
-├── Demos
-│   ├── GIFs
-│   ├── videos
-│   ├── screenshots
-│   └── real workflows
-│
-└── Publications
-    ├── technical notes
-    ├── releases
-    ├── research reports
-    └── future DOI-linked archives
+└── Public evidence
+    ├── Source code and tests
+    ├── Technical documentation
+    ├── Demonstrations and workflows
+    └── Releases and research archives
 ```
 
----
+The map describes the ecosystem's areas of work; it does not imply that every component is already integrated into one deployed system.
+
+## Research and evidence
+
+We aim to make technical work inspectable rather than relying on broad claims.
+
+Depending on the project, evidence may include:
+
+- Source code, reproducible scripts, and configuration
+- Test procedures, logs, and measured outputs
+- Technical reports and documented limitations
+- Screenshots, demonstrations, and real workflows
+- Releases and persistent research records
+
+**Research integrity matters.** Experimental findings are presented as experimental findings. A result from a finite test does not, by itself, establish a universal theorem, a general-purpose capability, or a production-ready product.
+
+For NCT-related work, Hanzzel Corp distinguishes the framework's research hypotheses, the concrete implementation under test, the measured results, and the limitations that remain.
 
 ## Development principles
 
-### Human first
+### Human direction
 
-The system assists the human.  
-The human decides.
+AI may assist with analysis, planning, and execution. People retain authority over consequential actions.
 
-### Local by default
+### Local-first by design
 
-Local execution, local models, local evidence, and user-controlled workflows are preferred whenever possible.
+We favor local execution, user-controlled data, and reduced dependence on external services when practical.
+
+### Observable and verifiable behavior
+
+Systems should expose meaningful inputs, outputs, decisions, logs, and execution results.
+
+### Modular engineering
+
+Components should have clear responsibilities and interfaces, making systems easier to inspect, test, and maintain.
 
 ### Evidence over claims
 
-Every experiment should aim to produce inspectable outputs: logs, metrics, screenshots, reports, datasets, or reproducible scripts.
+Documentation should distinguish implemented features, measured results, hypotheses, and future plans.
 
-### Modular by design
+### Research connected to practice
 
-Each module should have a clear purpose, clear inputs, clear outputs, and a verifiable role in the system.
+Where appropriate, research is translated into code, experiments, reports, demonstrations, or usable tools.
 
-### Research connected to software
+## Current direction
 
-Research should not stay abstract.  
-Whenever possible, it should become code, tests, reports, demos, or tools.
+The current direction is to:
 
-### Public construction
+- Continue developing Blue Arrow's human-approved orchestration architecture.
+- Extend reproducible NCT experiments while documenting their limits.
+- Develop Observatorio Vivo's local signal-intelligence workflow.
+- Improve the usability, testing, and documentation of practical tools.
+- Make project maturity and evidence easier to inspect.
+- Connect software, research records, and public technical communication.
 
-This is an evolving public construction process.  
-Each repository is treated as a piece of a larger technical ecosystem.
+This is an evolving ecosystem, not a claim that every planned capability is complete or that all repositories form one integrated product.
 
----
+## Collaboration and links
 
-## Current focus
+For technical discussion, evaluation, or potential collaboration, start with the relevant project repository or the public organization profile.
 
-Hanzzel Corp is currently focused on:
-
-- improving Blue Arrow as a usable local orchestration product
-- expanding NCT-based reproducible experiments
-- developing Observatorio Vivo as a local trend-intelligence system
-- building visual demos for public communication
-- organizing repositories under a single ecosystem narrative
-- creating documentation pipelines for technical and research work
-- preparing future releases with stronger evidence and presentation
-- connecting software, experimentation, and public research identity
+- **Organization:** [github.com/Hanzzel-corp](https://github.com/Hanzzel-corp)
+- **Portfolio:** [hanzzel-corp.github.io](https://hanzzel-corp.github.io/)
+- **ORCID:** [0009-0005-3584-1779](https://orcid.org/0009-0005-3584-1779)
+- **Zenodo:** [Research record](https://zenodo.org/records/1561047960843)
+- **Patreon:** [Hanzzel Corp](https://www.patreon.com/c/zamohanzze)
 
 ---
 
-## Repository categories
-
-| Category | Purpose |
-|---|---|
-| Product | Usable tools and automation systems |
-| Research | Experimental and falsifiability-oriented technical work |
-| Intelligence | Signal detection, trend analysis and alert systems |
-| Infrastructure | Internal engines, bridges, generators and utilities |
-| Documentation | Reports, notes, technical explanations and guides |
-| Demo | Visual proofs, videos, GIFs and workflows |
-| Archive | Stable releases, references and future DOI-linked material |
-
----
-
-## Public direction
-
-Hanzzel Corp is being developed as a long-term ecosystem where every repository contributes to a bigger technical direction:
-
-> local AI, human-approved automation, modular execution, reproducible research, trend intelligence, and NCT-based interpretation.
-
-This is not a finished system.  
-It is a public construction process.
-
-Each release, experiment, document, demo, and repository is part of that evolution.
-
----
-
-## Links
-
-Portfolio:  
-https://hanzzel-corp.github.io/
-
-GitHub profile:  
-https://github.com/Hanzzel-corp
-
-Main repository:  
-https://github.com/Hanzzel-corp/blue-arrow
-
-Research repository:  
-https://github.com/Hanzzel-corp/nct-depth-motif
-
-Trend-intelligence repository:  
-https://github.com/Hanzzel-corp/Observatorio.-Vivo
-
-SAT Engine repository:  
-https://github.com/Hanzzel-corp/SAT-Engine-v7
-
-ORCID:  
-https://orcid.org/0009-0005-3584-1779
-
-Zenodo:  
-https://zenodo.org/records/1561047960843
-
-Patreon:  
-https://www.patreon.com/c/zamohanzze
+<p align="center">
+  <strong>Build carefully. Measure honestly. Keep the human in control.</strong>
+</p>
