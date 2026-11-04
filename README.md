@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <strong>NCT as a repair field for fractured systems: detecting, interpreting, and rebuilding through human-directed intelligence.</strong>
+  <strong>NCT is the mathematical foundation behind a family of computational constructions, algorithms, and problem-solving experiments.</strong>
 </p>
 
 <h1 align="center">Hanzzel Corp</h1>
@@ -19,9 +19,11 @@
   <a href="https://orcid.org/0009-0005-3584-1779"><img src="https://img.shields.io/badge/ORCID-Researcher-A6CE39?logo=orcid&logoColor=white" alt="ORCID"></a>
 </p>
 
-Hanzzel Corp is an independent technical lab building practical software, local AI systems, human-directed automation, and experimental computational research.
+Hanzzel Corp is an independent technical lab developing mathematical and computational research, practical software, local AI systems, and human-directed automation.
 
-Our work connects engineering with investigation: prototypes become documented systems, experiments produce inspectable evidence, and useful ideas are developed into tools where possible.
+A central research direction is **NCT (Números Cuánticos Tridimensionales)**: a mathematical foundation from which we investigate constructions such as CQ, algorithmic approaches, geometric models, and computational methods for solving problems. These explorations can inform applications, while other Hanzzel Corp projects follow independent technical foundations.
+
+Our work connects investigation with engineering: ideas are formalized, implemented, tested, documented, and developed into useful tools where possible.
 
 > **AI should assist, organize, verify, and execute under human direction. The human remains the final authority.**
 
@@ -31,7 +33,8 @@ Our work connects engineering with investigation: prototypes become documented s
 
 - [What we build](#what-we-build)
 - [Featured projects](#featured-projects)
-- [Ecosystem map](#ecosystem-map)
+- [Ecosystem architecture](#ecosystem-architecture)
+- [Project directory](#project-directory)
 - [Research and evidence](#research-and-evidence)
 - [Development principles](#development-principles)
 - [Current direction](#current-direction)
@@ -172,6 +175,46 @@ The work is made inspectable through source code, tests, reproducible experiment
 
 This structure describes how the work is conceived and developed: **mathematical foundation → derived constructions and methods → applications and problem-solving systems**, with evidence and documentation supporting each stage.
 
+## Project directory
+
+This directory broadens the view beyond the featured projects. It is an index of repositories in the Hanzzel Corp organization, not a declaration that every repository is active, complete, integrated with NCT, or production-ready. For implementation details and maturity, follow each repository's own documentation.
+
+### Core systems and applications
+
+- [Blue Arrow](https://github.com/Hanzzel-corp/blue-arrow) — human-approved local PC orchestration.
+- [Ciel Core](https://github.com/Hanzzel-corp/ciel-core) — local AI system core.
+- [Ciel Bridge](https://github.com/Hanzzel-corp/ciel-bridge) — integration bridge for Ciel.
+- [Hanzzel Social Bridge](https://github.com/Hanzzel-corp/hanzzel-social-bridge) — social-platform integration project.
+- [Observatorio Vivo](https://github.com/Hanzzel-corp/Observatorio.-Vivo) — local signal and trend intelligence.
+- [Alerta Temprana](https://github.com/Hanzzel-corp/AlertaTemprana) — early-warning project.
+- [Hanzzel Store](https://github.com/Hanzzel-corp/hanzzel-store) — store and commerce project.
+- [Nubea](https://github.com/Hanzzel-corp/nubea) — software project.
+- [Hanzzel Bot Builder](https://github.com/Hanzzel-corp/hanzzel-bot-builder) — bot-building tools.
+- [Telegram AI Video Bot](https://github.com/Hanzzel-corp/telegram-ai-video-bot) — Telegram-based AI video workflow.
+- [IA Video](https://github.com/Hanzzel-corp/IA-video) — video and AI experiments.
+
+### NCT, mathematics, and computational experiments
+
+- [NCT Dossiers](https://github.com/Hanzzel-corp/nct-dossiers) — NCT research documentation.
+- [NCT Depth Motif](https://github.com/Hanzzel-corp/nct-depth-motif) — NCT-based depth-map motif experiments.
+- [NCT Milenio Solver](https://github.com/Hanzzel-corp/NCT_MILENIO_SOLVER) — mathematical and computational solver project.
+- [Camino Cuaternario](https://github.com/Hanzzel-corp/camino-cuaternario) — research and computational exploration.
+- [Cero Absoluto Simulation](https://github.com/Hanzzel-corp/Cero-Absoluto-Simulation) — simulation project.
+- [Experimento 9 — Horizonte Perceptivo](https://github.com/Hanzzel-corp/Experimento-9-Horizonte-Perceptivo) — experimental research.
+- [Experimento 10 — Resonancia PhiSync](https://github.com/Hanzzel-corp/Experimento10_ResonanciaPhiSync) — resonance experiment.
+- [Fib-Hodge Dynamics](https://github.com/Hanzzel-corp/Fib-Hodge-Dynamics) — mathematical dynamics project.
+- [Navier–Stokes Critical Flow Experiments](https://github.com/Hanzzel-corp/NavierStokes-CriticalFlow-Experiments) — computational experiments.
+- [Yang–Mills SU(3) v7](https://github.com/Hanzzel-corp/YangMills-SU3-v7) — computational research project.
+- [Elliptic Curve BSD Engine](https://github.com/Hanzzel-corp/EllipticCurve-BSD-Engine) — elliptic-curve and BSD-related computation.
+- [Riemann Zeta Computational Engine](https://github.com/Hanzzel-corp/Riemann-Zeta-Computational-Engine) — computational exploration of the zeta function.
+- [SAT Engine v7](https://github.com/Hanzzel-corp/SAT-Engine-v7) — SAT-solving experiments.
+- [H2O Chemistry VQE](https://github.com/Hanzzel-corp/H2O-quimicaVQE) — quantum-chemistry / VQE experiment.
+
+### Public presence
+
+- [Hanzzel Corp organization](https://github.com/Hanzzel-corp) — organization profile and repositories.
+- [Hanzzel Corp portfolio](https://hanzzel-corp.github.io/) — public portfolio and project index.
+
 ## Research and evidence
 
 We aim to make technical work inspectable rather than relying on broad claims.
@@ -229,7 +272,7 @@ This is an evolving ecosystem, not a claim that every planned capability is comp
 
 ## Collaboration and links
 
-For technical discussion, evaluation, or potential collaboration, start with the relevant project repository or the public organization profile.
+For technical discussion, evaluation, bug reports, or potential collaboration, start with the relevant project repository. Use its GitHub Issues to report a reproducible problem or propose a focused discussion; use pull requests when you have a concrete change to contribute. For broader inquiries, use the public organization profile or portfolio.
 
 - **Organization:** [github.com/Hanzzel-corp](https://github.com/Hanzzel-corp)
 - **Portfolio:** [hanzzel-corp.github.io](https://hanzzel-corp.github.io/)
