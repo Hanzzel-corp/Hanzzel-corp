@@ -38,6 +38,8 @@ Our work connects investigation with engineering: ideas are formalized, implemen
 - [Featured projects](#featured-projects)
 - [Ecosystem architecture](#ecosystem-architecture)
 - [Project directory](#project-directory)
+- [Master project index](./docs/INDICE_MAESTRO_PROYECTOS.md)
+- [Documentary continuity register](./docs/REGISTRO_CONTINUIDAD_DOCUMENTAL.md)
 - [Research and evidence](#research-and-evidence)
 - [Development principles](#development-principles)
 - [Current direction](#current-direction)
