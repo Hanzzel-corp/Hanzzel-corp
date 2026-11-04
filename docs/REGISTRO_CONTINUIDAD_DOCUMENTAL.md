@@ -26,6 +26,9 @@ Este registro trata exclusivamente sobre organización, consistencia y continuid
 | NCT_MILENIO_SOLVER | README.md | Se aclaró la diferencia entre nombre del repositorio y nombre del motor; se corrigió el enlace de clonación. | Relectura posterior: contenido coincide con el cambio. |
 | hanzzel-bot-builder | README.md | Se reemplazó la descripción mínima por una ficha prudente que identifica el propósito general y deja explícito qué alcance falta documentar. | Relectura posterior: contenido coincide con el cambio. |
 
+| hanzzel-store | README.md | Se creó una guía raíz basada en el contenido existente de `llms.txt` y los archivos del sitio. Se documentó el flujo de compra tal como está publicado, sin afirmar checkout ni entrega automática. | Relectura posterior: contenido coincide con el cambio. |
+| camino-cuaternario | README.md | Se creó una guía raíz basada en `index.html` y `data.json`. Se clasificó como iniciativa de recaudación, no como proyecto de investigación; no se inventó enlace de donación. | Relectura posterior: contenido coincide con el cambio. |
+
 ## Criterios de autoría
 
 Cuando aparezcan variantes históricas de una firma, no eliminarlas automáticamente. Registrar la firma tal como aparece en el documento histórico y aclarar la identidad institucional actual únicamente cuando exista respaldo suficiente. No asumir que dos nombres son equivalentes sin contexto documental.
@@ -42,3 +45,9 @@ Cuando aparezcan variantes históricas de una firma, no eliminarlas automáticam
 ## Registro de futuras modificaciones
 
 Agregar una entrada por cambio con fecha, repositorio, archivo, motivo, descripción precisa, commit y resultado de verificación. Si un dato no está disponible, consignarlo como «no documentado».
+
+## Hallazgos de inventario — 2026-11-04
+
+- `hanzzel-store` y `camino-cuaternario` no tenían `README.md` en la raíz. Se inspeccionaron sus archivos públicos antes de crear las guías raíz.
+- `H2O-quimicaVQE` permanece privado. Su README se llama `Readme.md` (R mayúscula/minúsculas restantes), no `README.md`. El repositorio contiene documentación propia, changelog, checklist y archivos de proyecto. No se modificó ni se copió ningún contenido privado al índice público.
+- La descripción del índice maestro para Camino Cuaternario se corrigió para reflejar su naturaleza de iniciativa de recaudación de fondos, según su página pública.
