@@ -177,7 +177,7 @@ This structure describes how the work is conceived and developed: **mathematical
 
 ## Project directory
 
-This directory broadens the view beyond the featured projects. It is an index of repositories in the Hanzzel Corp organization, not a declaration that every repository is active, complete, integrated with NCT, or production-ready. For implementation details and maturity, follow each repository's own documentation.
+This directory broadens the view beyond the featured projects. It indexes the organization's project repositories and public presence; it is not a declaration that every repository is active, complete, integrated with NCT, or production-ready. For implementation details and maturity, follow each repository's own documentation.
 
 ### Core systems and applications
 
@@ -212,7 +212,9 @@ This directory broadens the view beyond the featured projects. It is an index of
 
 ### Public presence
 
-- [Hanzzel Corp organization](https://github.com/Hanzzel-corp) — organization profile and repositories.
+- [Hanzzel Corp organization](https://github.com/Hanzzel-corp) — organization profile and repository index.
+- [Organization README repository](https://github.com/Hanzzel-corp/Hanzzel-corp) — this institutional overview.
+- [Portfolio repository](https://github.com/Hanzzel-corp/hanzzel-corp.github.io) — source for the public portfolio.
 - [Hanzzel Corp portfolio](https://hanzzel-corp.github.io/) — public portfolio and project index.
 
 ## Research and evidence
