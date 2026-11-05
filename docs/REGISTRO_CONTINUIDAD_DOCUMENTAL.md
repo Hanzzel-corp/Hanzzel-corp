@@ -57,8 +57,8 @@ Agregar una entrada por cambio con fecha, repositorio, archivo, motivo, descripc
 
 | Repositorio | Archivo | Cambio aplicado | Verificación |
 |---|---|---|---|
-| Cero-Absoluto-Simulation | README.md | Se unificó la sección de autoría y se eliminó la contradicción entre «proyecto institucional» y «proyecto individual». Se conservó la atribución a Hanzzel Corp y la dirección de investigación de José Zamora. | Pendiente de relectura posterior al commit. |
-| NCT_MILENIO_SOLVER | README.md | Se corrigió el comando de cambio de directorio posterior al clonado: ahora coincide con el nombre de carpeta creado por el repositorio. | Pendiente de relectura posterior al commit. |
+| Cero-Absoluto-Simulation | README.md | Se unificó la sección de autoría y se eliminó la contradicción entre «proyecto institucional» y «proyecto individual». Se conservó la atribución a Hanzzel Corp y la dirección de investigación de José Zamora. | Verificado por relectura; commit 33016dd. |
+| NCT_MILENIO_SOLVER | README.md | Se corrigió el comando de cambio de directorio posterior al clonado: ahora coincide con el nombre de carpeta creado por el repositorio. | Verificado por relectura; commit cd9d5d2. |
 
 ## Hallazgos adicionales — 2026-11-05
 
