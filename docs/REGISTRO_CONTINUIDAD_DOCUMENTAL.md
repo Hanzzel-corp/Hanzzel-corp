@@ -57,7 +57,7 @@ Este registro trata exclusivamente sobre organización, consistencia y continuid
 | Repositorio | Archivo | Cambio o hallazgo | Commit | Verificación |
 |---|---|---|---|---|
 | AlertaTemprana | README.md | Se repararon caracteres de reemplazo visibles y un error ortográfico. Se aclaró que `config.py` aparece versionado pese a la regla de `.gitignore`, y se listaron como pendientes de revisión los archivos de runtime presentes en la raíz. | a24164d | Relectura exacta posterior: OK; cero caracteres U+FFFD en el README. |
-| Experimento-9-Horizonte-Perceptivo | README.md | Se alineó el nombre de la carpeta del árbol documental con el nombre real del repositorio. La instrucción de instalación aún conserva `cd 9-ortogonalidad`; queda pendiente corregir ese comando porque no coincide con la carpeta de clonación. | c3423f0 | Relectura posterior: cambio parcial verificado; pendiente de instalación señalado. |
+| Experimento-9-Horizonte-Perceptivo | README.md | Se alineó el nombre de la carpeta del árbol documental con el nombre real del repositorio. La instrucción de instalación se corrigió a `cd Experimento-9-Horizonte-Perceptivo`, coincidente con la carpeta creada al clonar el repositorio. | c3423f0, f5526b7 | Relectura posterior: árbol y comando de instalación verificados; OK. |
 | EllipticCurve-BSD-Engine | README.md | Se corrigió el nombre del archivo de ejecución: la ruta disponible es `BSD_Engine_v4.0-FULL.py`, cuyo encabezado interno identifica el motor como v4.1. Se conservó el nombre físico histórico. | 20296ff | Relectura exacta posterior: OK. |
 | nubea | README.md | Se cerró el bloque Markdown que absorbía los apartados siguientes y se alineó el nombre del directorio del árbol con el repositorio. | 811a4cb | Relectura exacta posterior: OK. |
 
@@ -81,7 +81,7 @@ Este registro trata exclusivamente sobre organización, consistencia y continuid
 ### Discrepancias aún pendientes de resolución
 
 - **Observatorio.-Vivo:** la versión del producto en español figura como v0.3.0 y el motor interno como v6.1.2; la documentación inglesa conserva un historial que llega a v6.1.3. No se eligió una versión por deducción. Hace falta identificar el estado/versionado vigente desde el registro de cambios o código antes de sincronizar ambas versiones.
-- **Experimento-9-Horizonte-Perceptivo:** la carpeta del árbol fue corregida, pero el comando de instalación sigue usando `cd 9-ortogonalidad`; pendiente de ajuste.
+- **Experimento-9-Horizonte-Perceptivo:** carpeta del árbol y comando de instalación alineados con el nombre real del repositorio.
 - **H2O-quimicaVQE:** el README usa el nombre físico `Readme.md`; el repositorio contiene también `tests/README.md` y documentación de scripts. La cita ya no contiene los valores de contacto de ejemplo. La visibilidad permanece privada.
 - **Portfolio:** la analítica sigue pospuesta y los archivos preparados permanecen inactivos mientras no se configuren IDs; no se activó ningún servicio ni se publicaron métricas.
 
