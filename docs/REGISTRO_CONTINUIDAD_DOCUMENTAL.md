@@ -29,6 +29,27 @@ Este registro trata exclusivamente sobre organización, consistencia y continuid
 | hanzzel-store | README.md | Se creó una guía raíz basada en el contenido existente de `llms.txt` y los archivos del sitio. Se documentó el flujo de compra tal como está publicado, sin afirmar checkout ni entrega automática. | Relectura posterior: contenido coincide con el cambio. |
 | camino-cuaternario | README.md | Se creó una guía raíz basada en `index.html` y `data.json`. Se clasificó como iniciativa de recaudación, no como proyecto de investigación; no se inventó enlace de donación. | Relectura posterior: contenido coincide con el cambio. |
 
+
+
+## Cambios documentales registrados — 2026-11-05 (segunda pasada)
+
+| Repositorio | Archivo | Cambio aplicado | Commit | Verificación |
+|---|---|---|---|---|
+| hanzzel-social-bridge (privado) | CHECKPOINT.md | Se actualizó la fecha documental y se agregó una nota que separa v0.9.0 implementada en GitHub de las pruebas Linux, OAuth y permisos aún pendientes; se preservó el historial. | b6559e4 | Relectura exacta posterior: OK. |
+| hanzzel-social-bridge (privado) | KIT_PRUEBAS_MANUALES.md | Se identificó explícitamente como kit histórico de v0.7.2/v0.7.3 y se remitió al checkpoint vigente para evitar usar cifras antiguas como estado actual. | f7291a4 | Relectura exacta posterior: OK. |
+| hanzzel-social-bridge (privado) | CONTINUIDAD.md | Se marcó la nota v0.7.3 como antecedente histórico y se enlazó el estado actual al traspaso y checkpoint. | f72a83a | Relectura exacta posterior: OK. |
+| H2O-quimicaVQE (privado) | CITATION.cff | Se retiraron un ORCID y un correo claramente de ejemplo; no se inventaron datos de contacto reales. | 2b17ef7 | Relectura exacta posterior: OK. |
+| H2O-quimicaVQE (privado) | CHECKLIST.md | Se aclaró que el repositorio existe pero continúa privado; se eliminó la declaración «listo para publicar» mientras quedan controles sin marcar. | 9be7274 | Relectura exacta posterior: OK. |
+| H2O-quimicaVQE (privado) | CHANGELOG.md | Se registraron los cambios documentales de esta pasada sin alterar la versión del software ni el historial de código. | dd49b60 | Relectura exacta posterior: OK. |
+| ciel-bridge (privado) | README.md | Se corrigió la descripción «no contiene código fuente»: ahora distingue el canal privado del núcleo Ciel y enumera los scripts auxiliares visibles en `tools/` y la documentación. | 03725f7 | Relectura exacta posterior: OK. |
+
+### Estado observado en esta pasada
+
+- H2O-quimicaVQE sigue con visibilidad `private`; la conexión permite lectura y escritura de archivos, pero no expone una acción para cambiar la visibilidad del repositorio.
+- Ciel Core: README y documentos de límites/ensayo consultados. No se encontraron contradicciones editoriales que justificaran una modificación en esta pasada. La carpeta `docs/` no contiene un `README.md` en la ruta consultada; no se creó uno por inferencia.
+- Ciel Bridge: el README ahora refleja la existencia de herramientas auxiliares y mantiene la distinción respecto del núcleo Ciel Core.
+- NavierStokes-CriticalFlow-Experiments: el README actual ya no contiene el texto de preparación «copiá y pegá» señalado en una observación anterior; no se aplicó un cambio adicional.
+
 ## Criterios de autoría
 
 Cuando aparezcan variantes históricas de una firma, no eliminarlas automáticamente. Registrar la firma tal como aparece en el documento histórico y aclarar la identidad institucional actual únicamente cuando exista respaldo suficiente. No asumir que dos nombres son equivalentes sin contexto documental.
