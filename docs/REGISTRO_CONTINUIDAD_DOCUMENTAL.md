@@ -92,6 +92,15 @@ Este registro trata exclusivamente sobre organización, consistencia y continuid
 - Se actualizó `docs/INDICE_MAESTRO_PROYECTOS.md` para fechar la pasada del 05/11/2026 y dejar constancia de que el inventario público no cambió; los repositorios privados siguen fuera del índice.
 - Commit: `2bdd5ab`. Relectura exacta posterior: OK.
 
+
+
+## Sincronización de versiones de Observatorio Vivo — 2026-11-05
+
+- Se consultó el valor declarado por la aplicación en `app.py`: FastAPI title/version = `Observatorio Vivo v6.1.5` / `6.1.5`.
+- Se actualizó el README español de motor interno v6.1.2 a v6.1.5 (commit `69a026e`).
+- Se actualizó el README inglés para distinguir versión de producto v0.3.0 y motor v6.1.5 (commit `05ff625`). El historial inglés se marcó como parcial: no se inventaron notas para v6.1.4 ni v6.1.5.
+- Ambas modificaciones fueron releídas y verificadas exactamente.
+
 ## Criterios de autoría
 
 Cuando aparezcan variantes históricas de una firma, no eliminarlas automáticamente. Registrar la firma tal como aparece en el documento histórico y aclarar la identidad institucional actual únicamente cuando exista respaldo suficiente. No asumir que dos nombres son equivalentes sin contexto documental.
