@@ -1,7 +1,9 @@
 # Índice maestro de proyectos — Hanzzel Corp
 
 **Responsable institucional:** José Zamora — Investigador principal independiente.  
-**Actualizado:** 2026-11-04.  
+**Actualizado:** 2026-11-05.
+
+**Nota de mantenimiento:** en esta pasada se corrigieron README y rutas de ejecución de algunos repositorios públicos. No se agregaron ni retiraron proyectos del inventario. Los repositorios privados y sus documentos internos continúan excluidos.  
 **Alcance:** repositorios públicos de la organización. Los repositorios privados y su documentación interna se mantienen fuera de este índice público.
 
 Este índice es un mapa de navegación, no una declaración de que todos los proyectos estén terminados, activos, integrados entre sí o validados. Para conocer el estado real de cada proyecto, consultar su README y sus documentos propios.
