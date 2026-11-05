@@ -68,6 +68,23 @@ Este registro trata exclusivamente sobre organización, consistencia y continuid
 - **Experimento10_ResonanciaPhiSync:** los nombres de scripts referidos en la guía coinciden con archivos observados en la raíz. No se aplicaron cambios en esta pasada.
 - **Blue Arrow, Observatorio.-Vivo y nubea:** se revisaron README; en Nubea se corrigió el bloque Markdown. Los demás quedan sujetos a revisión más profunda de rutas/archivos si se continúa la pasada completa.
 
+
+
+## Cambios documentales registrados — 2026-11-05 (continuación de revisión)
+
+| Repositorio | Archivo | Cambio aplicado | Commit | Verificación |
+|---|---|---|---|---|
+| Observatorio.-Vivo | README.md | Se corrigieron las rutas de instalación y estructura para usar el nombre real del repositorio; se corrigió el nombre del archivo de captura de brotes según el archivo existente `Bortes.png`. | b69dc22 | Relectura exacta posterior: OK. |
+| Observatorio.-Vivo | README_EN.md | Se sustituyó el URL de clonación de ejemplo, se alineó el directorio con el repositorio real, se reconstruyó el árbol para eliminar entradas duplicadas y se reemplazó el correo de ejemplo por el canal de Issues. | d90e785 | Relectura exacta posterior: OK. |
+| hanzzel-corp.github.io | README.md | Se amplió el árbol de archivos para incluir las carpetas y recursos presentes; se aclaró que los archivos de Umami están preparados pero inactivos con IDs vacíos; se corrigieron instrucciones para trabajar sobre el repositorio existente. | 551cf86, 043fe51 | Relecturas exactas posteriores: OK. |
+
+### Discrepancias aún pendientes de resolución
+
+- **Observatorio.-Vivo:** la versión del producto en español figura como v0.3.0 y el motor interno como v6.1.2; la documentación inglesa conserva un historial que llega a v6.1.3. No se eligió una versión por deducción. Hace falta identificar el estado/versionado vigente desde el registro de cambios o código antes de sincronizar ambas versiones.
+- **Experimento-9-Horizonte-Perceptivo:** la carpeta del árbol fue corregida, pero el comando de instalación sigue usando `cd 9-ortogonalidad`; pendiente de ajuste.
+- **H2O-quimicaVQE:** el README usa el nombre físico `Readme.md`; el repositorio contiene también `tests/README.md` y documentación de scripts. La cita ya no contiene los valores de contacto de ejemplo. La visibilidad permanece privada.
+- **Portfolio:** la analítica sigue pospuesta y los archivos preparados permanecen inactivos mientras no se configuren IDs; no se activó ningún servicio ni se publicaron métricas.
+
 ## Criterios de autoría
 
 Cuando aparezcan variantes históricas de una firma, no eliminarlas automáticamente. Registrar la firma tal como aparece en el documento histórico y aclarar la identidad institucional actual únicamente cuando exista respaldo suficiente. No asumir que dos nombres son equivalentes sin contexto documental.
