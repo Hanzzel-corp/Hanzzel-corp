@@ -50,6 +50,24 @@ Este registro trata exclusivamente sobre organización, consistencia y continuid
 - Ciel Bridge: el README ahora refleja la existencia de herramientas auxiliares y mantiene la distinción respecto del núcleo Ciel Core.
 - NavierStokes-CriticalFlow-Experiments: el README actual ya no contiene el texto de preparación «copiá y pegá» señalado en una observación anterior; no se aplicó un cambio adicional.
 
+
+
+## Cambios y hallazgos documentales — 2026-11-05 (repositorios públicos)
+
+| Repositorio | Archivo | Cambio o hallazgo | Commit | Verificación |
+|---|---|---|---|---|
+| AlertaTemprana | README.md | Se repararon caracteres de reemplazo visibles y un error ortográfico. Se aclaró que `config.py` aparece versionado pese a la regla de `.gitignore`, y se listaron como pendientes de revisión los archivos de runtime presentes en la raíz. | a24164d | Relectura exacta posterior: OK; cero caracteres U+FFFD en el README. |
+| Experimento-9-Horizonte-Perceptivo | README.md | Se alineó el nombre de la carpeta del árbol documental con el nombre real del repositorio. La instrucción de instalación aún conserva `cd 9-ortogonalidad`; queda pendiente corregir ese comando porque no coincide con la carpeta de clonación. | c3423f0 | Relectura posterior: cambio parcial verificado; pendiente de instalación señalado. |
+| EllipticCurve-BSD-Engine | README.md | Se corrigió el nombre del archivo de ejecución: la ruta disponible es `BSD_Engine_v4.0-FULL.py`, cuyo encabezado interno identifica el motor como v4.1. Se conservó el nombre físico histórico. | 20296ff | Relectura exacta posterior: OK. |
+| nubea | README.md | Se cerró el bloque Markdown que absorbía los apartados siguientes y se alineó el nombre del directorio del árbol con el repositorio. | 811a4cb | Relectura exacta posterior: OK. |
+
+### Hallazgos pendientes de actuación
+
+- **AlertaTemprana:** en la raíz pública aparecen `config.py`, `chat_id.json`, `ubicacion_usuario.json` y `clima_log.csv`, aunque el README los describe como archivos locales/de runtime y advierte no versionar `config.py`. No se inspeccionaron ni se eliminaron sus contenidos en esta pasada. Requiere revisión de privacidad y decisión explícita sobre retirar o conservar esos archivos; no asumir que `.gitignore` protege archivos ya versionados.
+- **Experimento-9-Horizonte-Perceptivo:** el árbol ya muestra el nombre de repositorio correcto, pero el comando de instalación todavía usa `cd 9-ortogonalidad`. No se completó esa segunda corrección.
+- **Experimento10_ResonanciaPhiSync:** los nombres de scripts referidos en la guía coinciden con archivos observados en la raíz. No se aplicaron cambios en esta pasada.
+- **Blue Arrow, Observatorio.-Vivo y nubea:** se revisaron README; en Nubea se corrigió el bloque Markdown. Los demás quedan sujetos a revisión más profunda de rutas/archivos si se continúa la pasada completa.
+
 ## Criterios de autoría
 
 Cuando aparezcan variantes históricas de una firma, no eliminarlas automáticamente. Registrar la firma tal como aparece en el documento histórico y aclarar la identidad institucional actual únicamente cuando exista respaldo suficiente. No asumir que dos nombres son equivalentes sin contexto documental.
