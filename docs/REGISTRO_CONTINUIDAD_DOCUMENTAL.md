@@ -51,3 +51,19 @@ Agregar una entrada por cambio con fecha, repositorio, archivo, motivo, descripc
 - `hanzzel-store` y `camino-cuaternario` no tenían `README.md` en la raíz. Se inspeccionaron sus archivos públicos antes de crear las guías raíz.
 - `H2O-quimicaVQE` permanece privado. Su README se llama `Readme.md` (R mayúscula/minúsculas restantes), no `README.md`. El repositorio contiene documentación propia, changelog, checklist y archivos de proyecto. No se modificó ni se copió ningún contenido privado al índice público.
 - La descripción del índice maestro para Camino Cuaternario se corrigió para reflejar su naturaleza de iniciativa de recaudación de fondos, según su página pública.
+
+
+## Cambios documentales registrados — 2026-11-05
+
+| Repositorio | Archivo | Cambio aplicado | Verificación |
+|---|---|---|---|
+| Cero-Absoluto-Simulation | README.md | Se unificó la sección de autoría y se eliminó la contradicción entre «proyecto institucional» y «proyecto individual». Se conservó la atribución a Hanzzel Corp y la dirección de investigación de José Zamora. | Pendiente de relectura posterior al commit. |
+| NCT_MILENIO_SOLVER | README.md | Se corrigió el comando de cambio de directorio posterior al clonado: ahora coincide con el nombre de carpeta creado por el repositorio. | Pendiente de relectura posterior al commit. |
+
+## Hallazgos adicionales — 2026-11-05
+
+- telegram-ai-video-bot: el README actual tiene correctamente cerrados los bloques de código y el enlace de clonación está bien formado; no requiere el arreglo que se había señalado en un diagnóstico anterior.
+- IA-video: el README ya distingue expresamente el nombre del repositorio (IA-video) del nombre del proyecto (SVD-TelegramBot ∑Δ); no requiere ese cambio.
+- NCT_MILENIO_SOLVER: el README ya distingue el nombre del repositorio del nombre del motor (NCT Visual Engine). El problema concreto detectado era únicamente el comando cd de instalación.
+- hanzzel-bot-builder: el README deja explícito que la descripción funcional y los pasos de uso están pendientes de documentar a partir de los archivos reales. No se añadieron funcionalidades por inferencia.
+- El índice maestro y este registro de continuidad ya existen en Hanzzel-corp/Hanzzel-corp/docs/; no se recrearon.
