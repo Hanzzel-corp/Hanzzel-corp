@@ -85,6 +85,13 @@ Este registro trata exclusivamente sobre organización, consistencia y continuid
 - **H2O-quimicaVQE:** el README usa el nombre físico `Readme.md`; el repositorio contiene también `tests/README.md` y documentación de scripts. La cita ya no contiene los valores de contacto de ejemplo. La visibilidad permanece privada.
 - **Portfolio:** la analítica sigue pospuesta y los archivos preparados permanecen inactivos mientras no se configuren IDs; no se activó ningún servicio ni se publicaron métricas.
 
+
+
+## Actualización del índice maestro — 2026-11-05
+
+- Se actualizó `docs/INDICE_MAESTRO_PROYECTOS.md` para fechar la pasada del 05/11/2026 y dejar constancia de que el inventario público no cambió; los repositorios privados siguen fuera del índice.
+- Commit: `2bdd5ab`. Relectura exacta posterior: OK.
+
 ## Criterios de autoría
 
 Cuando aparezcan variantes históricas de una firma, no eliminarlas automáticamente. Registrar la firma tal como aparece en el documento histórico y aclarar la identidad institucional actual únicamente cuando exista respaldo suficiente. No asumir que dos nombres son equivalentes sin contexto documental.
